@@ -1,4 +1,10 @@
-# my_first_repository
-# my_first_repository
-# my_first_repository
-*this is my first project and here we go*
+# My_first_repository
+---
+## Description
+
+This project in my_first_repository is about:
+* setting up git 
+* pushing to github
+
+## Author 
+stefan silverio
